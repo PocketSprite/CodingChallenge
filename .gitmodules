@@ -1,0 +1,3 @@
+ [submodule "8bkc-sudoku"]
+ 	path = 8bkc-sudoku
+ 	url = https://github.com/superloach/8bkc-sudoku
